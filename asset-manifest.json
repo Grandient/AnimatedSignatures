@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AnimatedSignatures/static/css/main.ca13f1d4.chunk.css",
+    "main.js": "/AnimatedSignatures/static/js/main.21e32052.chunk.js",
+    "main.js.map": "/AnimatedSignatures/static/js/main.21e32052.chunk.js.map",
+    "runtime-main.js": "/AnimatedSignatures/static/js/runtime-main.5eb6f86b.js",
+    "runtime-main.js.map": "/AnimatedSignatures/static/js/runtime-main.5eb6f86b.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/AnimatedSignatures/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b28cfcea.chunk.js": "/AnimatedSignatures/static/js/2.b28cfcea.chunk.js",
+    "static/js/2.b28cfcea.chunk.js.map": "/AnimatedSignatures/static/js/2.b28cfcea.chunk.js.map",
+    "index.html": "/AnimatedSignatures/index.html",
+    "precache-manifest.8ae1a67d3129058f4337e476877ea3dc.js": "/AnimatedSignatures/precache-manifest.8ae1a67d3129058f4337e476877ea3dc.js",
+    "service-worker.js": "/AnimatedSignatures/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/AnimatedSignatures/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ca13f1d4.chunk.css.map": "/AnimatedSignatures/static/css/main.ca13f1d4.chunk.css.map",
+    "static/js/2.b28cfcea.chunk.js.LICENSE.txt": "/AnimatedSignatures/static/js/2.b28cfcea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5eb6f86b.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.b28cfcea.chunk.js",
+    "static/css/main.ca13f1d4.chunk.css",
+    "static/js/main.21e32052.chunk.js"
+  ]
+}
