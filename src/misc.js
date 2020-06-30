@@ -11,12 +11,12 @@ export function calculateDistances(group) {
         var d = 0, a;
         // For each vertice find the distance between them
         _.each(child.vertices, function(b, i) {
-        // Skip the first vertwz
-        if (i > 0) {
-            d += a.distanceTo(b);
-        }
-        a = b;
-        });
+            // Skip the first vertice
+            if (i > 0) {
+                d += a.distanceTo(b);
+            }
+            a = b;
+            });
         return d;
     });
 }
@@ -45,6 +45,7 @@ export function setEnding(group, t) {
     // t is a percentage, group.total is total distance 
     var traversed = t * group.total;
     var current = 0;
+    //console.log(group.children)
     // For each path in group
     _.each(group.children, function(child) {
       var distance = group.distances[i];

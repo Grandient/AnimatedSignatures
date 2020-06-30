@@ -7,8 +7,6 @@ label {
   margin-bottom: 0px;
 }
 
-body {
-}
 
 .center {
   display: flex;
@@ -19,6 +17,16 @@ body {
   flex-direction: column;
 }
 
+.flex {
+  display: flex;
+}
+
+.bold{
+  font-weight: bold;
+  font-size: 1.5rem;
+  text-decoration: underline;
+}
+
 #form {
   z-index: 1;
   position: absolute;
@@ -26,6 +34,21 @@ body {
   padding-bottom: -2px;
   display: flex;
   outline: black 2px solid;
+  width: 400px;
+}
+
+#history {
+  z-index: 1;
+  position: absolute;
+  background: white;
+  padding-bottom: -2px;
+  display: flex;
+  outline: black 2px solid;
+  width: 400px;
+}
+
+.small {
+  width: auto !important;
 }
 
 #checkbg {

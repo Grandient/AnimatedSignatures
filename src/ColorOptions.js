@@ -33,8 +33,13 @@ class ColorOptions extends React.Component {
         
         return (
             <div>
+                <div className={"center" + " bold"}>
+                    Background Options:
+                </div>
+            <div>
                 {check}
                 {select}
+            </div>
             </div>
             );
     }
